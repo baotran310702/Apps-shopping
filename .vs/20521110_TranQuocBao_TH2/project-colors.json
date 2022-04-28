@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89109c83-f43b-4335-8b28-9118e8efed77": {
+      "ProjectGuid": "89109c83-f43b-4335-8b28-9118e8efed77",
+      "DisplayName": "20521110_TranQuocBao_TH2",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
